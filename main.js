@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.bold.blue("\n\tWelcome to Code With Huzaifah - Currency Convertor\n "));
